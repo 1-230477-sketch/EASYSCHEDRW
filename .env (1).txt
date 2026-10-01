@@ -1,0 +1,5 @@
+EASYSCHED_SMTP_USERNAME=pogi8848@gmail.com
+EASYSCHED_SMTP_PASSWORD=vygs sfnz kncl cbio
+EASYSCHED_SMTP_HOST=smtp.gmail.com
+EASYSCHED_SMTP_PORT=587
+EASYSCHED_EMAIL_FROM=sinaicapstone@gmail.com

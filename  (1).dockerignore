@@ -1,0 +1,12 @@
+.git
+.venv
+.env
+.env.*
+data/**
+!data/.htaccess
+tests
+test-api.php
+test-bootstrap.html
+debug_student_fix.php
+*.sqlite
+*.sqlite-*
